@@ -39,7 +39,7 @@ Curious about how things break — and how to make them break safely.
 - 🔐 Pentester — breaking things ethically, mostly
 - 🌐 Networking — thinks in subnets, dreams in packets
 - 🐧 Runs Arch Linux (and will mention it unprompted)
-- 💬 Ask about Baileys, WhatsApp bots, or why my last commit is called "fix"
+- 💬 Nodejs bots development, sometimes 
 - 📫 [hanifssh.pages.dev](https://hanifssh.pages.dev)
 
 </td>
